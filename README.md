@@ -7,7 +7,7 @@
         I'm a Software Engineering  ready to learn and challenge myself!.<br>
         Open to collaborating on interesting and innovative projects, open source, private, and work together! <br>
 		WebDev lover<br>
-		Backend enthusiast! I like to design Databases, tables, normalize and create solutions to make an application work
+		Backend enthusiast! I like to design Databases, tables, normalize and create solutions to make an application work<br>
     </i><br>
     <a href="https://www.linkedin.com/in/Jk99z2">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
