@@ -60,9 +60,3 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/Jk99z2">
-    <img src="https://komarev.com/ghpvc/?username=Jk99z2&color=blue&style=flat)" />
-  </a>
-</p>
-
