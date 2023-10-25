@@ -4,7 +4,7 @@
     <b>Welcome to my profile!</b><br><br>
     <i>
         I'm Enrique.<br>
-        I'm a Software Engineering  ready to learn and challenge myself!.<br>
+        I'm a Software Engineer  ready to learn and challenge myself!.<br>
         Open to collaborating on interesting and innovative projects, open source, private, and work together! <br>
 		WebDev lover<br>
 		Backend enthusiast! I like to design Databases, tables, normalize and create solutions to make an application work<br>
