@@ -12,9 +12,11 @@
     <a href="https://www.linkedin.com/in/Jk99z2">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+	<br>
     <i>
         Check oout my portfolio at <a href="https://Jk99z2.github.io">Jk99z2.github.io</a><br>
-    </i><br>
+    </i>
+	<br>
 </p>
 
 ### Languages
