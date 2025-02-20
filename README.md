@@ -14,7 +14,7 @@
     </a>
 	<br>
     <i>
-        Check oout my portfolio at <a href="https://Jk99z2.github.io">Jk99z2.github.io</a><br>
+        Check oout my portfolio <a href="https://ejpdev.tech/">here</a> or <a href="https://jk99z2.github.io/portfolio">here</a><br>
     </i>
 	<br>
 </p>
